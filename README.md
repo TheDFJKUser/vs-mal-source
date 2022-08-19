@@ -1,11 +1,6 @@
 # VS MAL
 Friday Night Funkin' but MAL has invaded your game!!!
 
-## Credits:
-* Shadow Mario - Programmer
-* RiverOaken - Artist
-* Yoshubs - Assistant Programmer
-
 ### Mod Devs
 * soritheaccursed - Director and artist
 * sado - Most shit
@@ -16,8 +11,7 @@ _____________________________________
 ## Mod Support
 * Psych mods still work, even though MAL has invaded.
 
-
-## Atleast one change to every week:
+## Mod changes:
 ### Week 1:
   * Locked week cuz MAL!!!
 ### Week 2:
@@ -30,6 +24,9 @@ _____________________________________
   * Locked week cuz MAL!!!!
 ### Week 6:
   * Locked week cuz MAL!!!!
+### MAL (new):
+  * Makes the new "MAL" week playable.
 
-## Other gameplay features:
+## Other changes:
 * MAL has invaded!
+* New badass menu
