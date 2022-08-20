@@ -7,6 +7,7 @@ Friday Night Funkin' but MAL has invaded your game!!!
 * jmori_cookie - On the dev team
 * Spin_XP - On the dev team
 * jude - On the dev team
+* EtherNote - Mal Voice Actor
 _____________________________________
 
 ## Mod Support
