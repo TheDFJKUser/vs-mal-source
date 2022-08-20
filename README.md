@@ -6,6 +6,7 @@ Friday Night Funkin' but MAL has invaded your game!!!
 * sado - Most shit
 * jmori_cookie - On the dev team
 * Spin_XP - On the dev team
+* jude - On the dev team
 _____________________________________
 
 ## Mod Support
